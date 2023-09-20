@@ -646,7 +646,7 @@ html {
   }
 
 .section-hero{
-    background-size: 90rem auto;
+    background-size: 90rem auto; /*automatic height - sizing with 2-value syntax*/
 }
 
 .section-hero .section-title {
