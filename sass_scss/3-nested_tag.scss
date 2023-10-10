@@ -2,8 +2,13 @@ $body-margin: 0px;
 $body-padding: 0px;
 $p-margin: 10px;
 
-body
+body{
     margin: $body-margin;
-    padding: $body-padding;  
-  p
-    margin: $p-margin;
+    padding: $body-padding;
+    
+    p{
+        margin: $p-margin;
+    }
+    
+} 
+  
